@@ -13,8 +13,8 @@ composer require marcosraudkett/centrifuge-php
 ```
 ## Usage 
 
-Example on how to fetch journeys
-### Journeys
+### Publish
+Example on how to publish data to a channel:
 ```php
 use Mvrc\CentrifugePhp\CentrifugeConnector;
 use Mvrc\CentrifugePhp\Requests\PublishRequest;
