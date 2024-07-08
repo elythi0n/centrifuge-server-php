@@ -1,6 +1,6 @@
-# Centrifuge SDK for the Centrifuge API
+# PHP server SDK for communicating with Centrifugo server HTTP API.
 
-This is an unofficial Centrifuge PHP SDK. More information on the [official documentation page](https://centrifugal.dev/docs/server/server_api#http-api).
+This is an unofficial Centrifuge PHP **server** SDK. More information on the [official documentation page](https://centrifugal.dev/docs/server/server_api#http-api).
 
 ## Requirements
 
