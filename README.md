@@ -1,4 +1,4 @@
-# PHP-based SDK for the Centrifugo server API.
+# Unofficial PHP SDK for the Centrifugo server API.
 
 This is an unofficial Centrifuge PHP **server** SDK. More information on the [official documentation page](https://centrifugal.dev/docs/server/server_api#http-api).
 
